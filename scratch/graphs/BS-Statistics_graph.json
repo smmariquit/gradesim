@@ -1,0 +1,13 @@
+{
+  "program": "BS-Statistics",
+  "nodes": [
+    {
+      "id": "3     GE Elective",
+      "label": "3     GE Elective",
+      "units": 3,
+      "year": 2,
+      "sem": "midyear"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,41 @@
+{
+  "program": "BS-Development-Communication",
+  "nodes": [
+    {
+      "id": "3      Elective (Technical)",
+      "label": "3      Elective (Technical)",
+      "units": 3,
+      "year": 2,
+      "sem": "2"
+    },
+    {
+      "id": "3     Elective (Technical)",
+      "label": "3     Elective (Technical)",
+      "units": 3,
+      "year": 2,
+      "sem": "2"
+    },
+    {
+      "id": "3    Elective (Technical)",
+      "label": "3    Elective (Technical)",
+      "units": 3,
+      "year": 3,
+      "sem": "2"
+    },
+    {
+      "id": "3    Elective (SOSC)",
+      "label": "3    Elective (SOSC)",
+      "units": 3,
+      "year": 3,
+      "sem": "2"
+    },
+    {
+      "id": "3     Elective (SOSC)",
+      "label": "3     Elective (SOSC)",
+      "units": 3,
+      "year": 4,
+      "sem": "2"
+    }
+  ],
+  "edges": []
+}

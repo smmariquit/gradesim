@@ -1,0 +1,48 @@
+{
+  "program": "BS-Applied-Physics",
+  "nodes": [
+    {
+      "id": "(2) GE Elective",
+      "label": "(2) GE Elective",
+      "units": 3,
+      "year": 1,
+      "sem": "2"
+    },
+    {
+      "id": "GE",
+      "label": "Elective",
+      "units": 3,
+      "year": 2,
+      "sem": "2"
+    },
+    {
+      "id": "COMM 10",
+      "label": "Critical Perspectives in Communication",
+      "units": 3,
+      "year": 3,
+      "sem": "2"
+    },
+    {
+      "id": "3 Elective (APHY/PHYS)",
+      "label": "3 Elective (APHY/PHYS)",
+      "units": 3,
+      "year": 3,
+      "sem": "2"
+    },
+    {
+      "id": "PHY 198",
+      "label": "Practicum",
+      "units": 3,
+      "year": 3,
+      "sem": "midyear"
+    },
+    {
+      "id": "3 Elective",
+      "label": "3 Elective",
+      "units": 3,
+      "year": 4,
+      "sem": "2"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,27 @@
+{
+  "program": "BS-Agricultural-Biotechnology",
+  "nodes": [
+    {
+      "id": "(2) Elective GE",
+      "label": "(2) Elective GE",
+      "units": 2,
+      "year": 2,
+      "sem": "2"
+    },
+    {
+      "id": "3  Elective course",
+      "label": "3  Elective course",
+      "units": 1,
+      "year": 3,
+      "sem": "2"
+    },
+    {
+      "id": "3    Elective Course",
+      "label": "3    Elective Course",
+      "units": 2,
+      "year": 4,
+      "sem": "2"
+    }
+  ],
+  "edges": []
+}

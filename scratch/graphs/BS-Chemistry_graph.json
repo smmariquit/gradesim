@@ -1,0 +1,41 @@
+{
+  "program": "BS-Chemistry",
+  "nodes": [
+    {
+      "id": "tory        3    GE Elective",
+      "label": "tory        3    GE Elective",
+      "units": 3,
+      "year": 1,
+      "sem": "2"
+    },
+    {
+      "id": "1 GE Elective",
+      "label": "1 GE Elective",
+      "units": 3,
+      "year": 2,
+      "sem": "2"
+    },
+    {
+      "id": "NSTP 1",
+      "label": "National Training Service Program I",
+      "units": 3,
+      "year": 2,
+      "sem": "2"
+    },
+    {
+      "id": "CHEM 44",
+      "label": "Organic Chemistry II",
+      "units": 3,
+      "year": 2,
+      "sem": "midyear"
+    },
+    {
+      "id": "3 Elective (CHEM)",
+      "label": "3 Elective (CHEM)",
+      "units": 3,
+      "year": 4,
+      "sem": "2"
+    }
+  ],
+  "edges": []
+}

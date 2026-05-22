@@ -1,0 +1,13 @@
+{
+  "program": "BA-Sociology",
+  "nodes": [
+    {
+      "id": "3 GE Elective",
+      "label": "3 GE Elective",
+      "units": 3,
+      "year": 1,
+      "sem": "midyear"
+    }
+  ],
+  "edges": []
+}

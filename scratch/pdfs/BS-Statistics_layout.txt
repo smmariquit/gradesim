@@ -1,0 +1,114 @@
+                                                           BACHELOR OF SCIENCE IN STATISTICS
+
+
+                                                                         FIRST YEAR
+                      FIRST SEMESTER                                         SECOND SEMESTER                                MIDYEAR
+ETHICS 1. Ethics and Moral Reasoning in Everyday
+                                                   3     ARTS 1. Critical Perspectives in the Arts
+Life                                                                                                   3
+KAS 1/HIST 1. Kasaysayan ng Pilipinas/Philippine
+                                                   3
+History                                                GE Elective                                     3
+MATH 27. Analytic Geometry and Calculus II          3 MATH 28. Analytic Geometry and Calculus III      3
+BIO 30. Genetics                                    3 CMSC 12. Foundations of Computer Science         3
+STAT 101. Statistical Methods                       3 STAT 162. Experimental Designs                   3
+STAT 135. Logic and Matrix Algebra in Statistics    3 STAT 182. Statistical Packages                   3
+                                                       HK 12/13. Human Kinetics Activities/Advanced
+HK 11. Wellness and Basic Injury Management        (2)                                                 (2)
+                                                       Human Kinetics Activities
+                                                   18                                                  18
+                                                                    SECOND YEAR
+                     FIRST SEMESTER                                        SECOND SEMESTER                                  MIDYEAR
+STS 1. Science, Technology, and Society             3 GE Elective                                      3
+GE Elective                                         3 MATH 182. Introduction to Stochastic Processes   3
+CMSC 21. Fundamentals of Programming                3 CMSC 22. Object-Oriented Programming             3
+ECON 11. General Economics                          3 ABME 10. Foundations of Entrepreneurship         3
+STAT 144. Introductory Statistical Theory I         3 STAT 145. Introductory Statistical Theory II     3
+STAT 168. Response Surface Methodology              3 STAT 163. Survey Designs                         3
+HK 12/13. Human Kinetics Activities/Advanced           HK 12/13. Human Kinetics Activities/Advanced
+                                                   (2)                                                 (2)
+Human Kinetics Activities                              Human Kinetics Activities
+NSTP 1. National Training Service Program I        (3) NSTP 2. National Training Service Program II    (3)
+                                                   18                                                  18
+
+                                                                         THIRD YEAR
+                     FIRST SEMESTER                                          SECOND SEMESTER                                MIDYEAR
+COMM 10. Critical Perspectives in Communication    3
+                                                       Elective Track                                  3     STAT 198. Practicum      3
+Elective Track                                      3 CMSC 127. File Processing and Database Systems   3                              3
+                                                       STAT 147. Introduction to the Theory of
+STAT 146. Introductory Statistical Theory III       3 Nonparametric Statistics                          3
+STAT 173. Survey Operations                         3 STAT 151. Applied Regression and Correlation      3
+STAT 175. Analysis of Multivariate Data             3 STAT 156. Introductory Time Series Analysis       3
+STAT 181. Statistical Computing                     3 STAT 174. Introductory Biostatistics              3
+NSTP 2. National Training Service Program II       (3) STAT 192.1. Statistical Consulting Laboratory    1
+                                                   18                                                  19
+                                                                      FOURTH YEAR
+                     FIRST SEMESTER                                         SECOND SEMESTER                                 MIDYEAR
+Elective Track                                      3 PI 10. The Life and Works of Jose Rizal           3
+ENG 10. Writing of Scientific Papers                3 STAT 157. Financial Risk Analysis                 3
+STAT 148. Introductory Bayesian Statistics          3 STAT 167. Statistical Quality Control             3
+STAT 165. Categorical Data Analysis                 3 STAT 183. Introductory Data Analytics             3
+STAT 190. Special Problem                           1 STAT 190. Special Problem                         2
+STAT 191. Special Topics                            3 STAT 199. Undergraduate Seminar                   1
+                                                   16                                                  15
+
+
+TOTAL UNITS                                        143
+                                                              BACHELOR OF SCIENCE IN STATISTICS
+                                       Redesigned curriculum for remote learning from First Semester 2020-2021 to present
+
+                                                                             FIRST YEAR
+                      FIRST SEMESTER                                             SECOND SEMESTER                                      MIDYEAR
+ETHICS 1. Ethics and Moral Reasoning in Everyday                                                                      STAT 135. Logic and Matrix Algebra
+                                                       3     ARTS 1. Critical Perspectives in the Arts                                                     3
+Life                                                                                                            3     in Statistics
+KAS 1/HIST 1. Kasaysayan ng Pilipinas/Philippine
+                                                       3
+History                                                    GE Elective                                          3     STAT 182. Statistical Packages       3
+MATH 27. Analytic Geometry and Calculus II              3 MATH 28. Analytic Geometry and Calculus III           3                                          6
+BIO 30. Genetics                                        3 CMSC 12. Foundations of Computer Science              3
+STAT 101. Statistical Methods                           3 STAT 162. Experimental Designs                        3
+                                                           HK 12/13. Human Kinetics Activities/Advanced
+HK 11. Wellness and Basic Injury Management            (2)                                                      (2)
+                                                           Human Kinetics Activities
+                                                       15                                                       15
+
+                                                                        SECOND YEAR
+                     FIRST SEMESTER                                           SECOND SEMESTER                                         MIDYEAR
+STS 1. Science, Technology, and Society                 3 MATH 182. Introduction to Stochastic Processes        3     GE Elective                          3
+CMSC 21. Fundamentals of Programming                    3 CMSC 22. Object-Oriented Programming                  3     GE Elective                          3
+ECON 11. General Economics                              3 ABME 10. Foundations of Entrepreneurship              3                                          6
+STAT 144. Introductory Statistical Theory I             3 STAT 145. Introductory Statistical Theory II          3
+STAT 168. Response Surface Methodology                  3 STAT 163. Survey Designs                              3
+HK 12/13. Human Kinetics Activities/Advanced               HK 12/13. Human Kinetics Activities/Advanced
+                                                       (2)                                                      (2)
+Human Kinetics Activities                                  Human Kinetics Activities
+                                                       15 NSTP 1. National Training Service Program I           (3)
+                                                                                                                15
+                                                                             THIRD YEAR
+                     FIRST SEMESTER                                              SECOND SEMESTER                                      MIDYEAR
+COMM 10. Critical Perspectives in Communication        3
+                                                             Elective Track                                     3     STAT 198. Practicum                  3
+Elective Track                                         3     CMSC 127. File Processing and Database Systems     3                                          3
+                                                             STAT 147. Introduction to the Theory of
+STAT 146. Introductory Statistical Theory III           3    Nonparametric Statistics                            3
+STAT 173. Survey Operations                             3    STAT 151. Applied Regression and Correlation        3
+STAT 175. Analysis of Multivariate Data                 3    STAT 156. Introductory Time Series Analysis         3
+STAT 181. Statistical Computing                         3                                                       15
+NSTP 2. National Training Service Program II           (3)
+                                                       18
+                                                                            FOURTH YEAR
+                     FIRST SEMESTER                                               SECOND SEMESTER                                     MIDYEAR
+Elective Track                                          3    PI 10. The Life and Works of Jose Rizal             3
+ENG 10. Writing of Scientific Papers                    3    STAT 157. Financial Risk Analysis                   3
+STAT 148. Introductory Bayesian Statistics              3    STAT 167. Statistical Quality Control               3
+STAT 165. Categorical Data Analysis                     3    STAT 183. Introductory Data Analytics               3
+STAT 190. Special Problem                               1    STAT 190. Special Problem                           2
+STAT 191. Special Topics                                3    STAT 199. Undergraduate Seminar                     1
+STAT 174. Introductory Biostatistics                    3                                                       15
+STAT 192.1. Statistical Consulting Laboratory           1
+                                                       20
+
+TOTAL UNITS                                           143
+

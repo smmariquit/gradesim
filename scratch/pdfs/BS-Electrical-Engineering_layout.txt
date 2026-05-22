@@ -1,0 +1,55 @@
+                                                 BACHELOR OF SCIENCE IN ELECTRICAL ENGINEERING
+
+                                                                      FIRST YEAR
+                         FIRST SEMESTER                                                 SECOND SEMESTER                               MIDYEAR
+MATH 27. Analytic Geometry and Calculus II                     3 MATH 28. Analytic Geometry and Calculus III                 3
+PHYS 71. University Physics I                                  4 PHYS 72. University Physics II                              4
+PHYS 71.1. University Physics I Laboratory                     1 PHYS 72.1. University Physics II Laboratory                 1
+EE 30. Introduction to Electrical Engineering                  1 ENSC 10.1. Engineering Graphics Laboratory                  2
+PI 10. The Life and Works of Jose Rizal                        3 ENSC 11. Statics of Rigid Bodies                            3
+ARTS 1. Critical Perspectives in the Arts                      3 GE Elective                                                 3
+ETHICS 1. Ethics and Moral Reasoning in Everyday Life          3 GE Elective                                                 3
+                                                                  HK 12/13. Human Kinetics Activities/Advanced Human
+HK 11. Wellness and Basic Injury Management                   (2)                                                            (2)
+                                                                  Kinetics Activities
+NSTP 1. National Service Training Program I                   (3) NSTP 2. National Service Training Program II               (3)
+                                                              18                                                             19
+                                                                     SECOND YEAR
+                       FIRST SEMESTER                                                   SECOND SEMESTER                               MIDYEAR
+EE 40. Fundamentals of Electrical Engineering I                4 EE 50. Fundamentals of Electrical Engineering II            4
+EE 45. Fundamentals of Engineering Electromagnetics            3 EE 51. Electromechanical Energy Conversion for DC           3
+ENSC 12. Dynamics of Rigid Bodies                              3 EE 55. Semiconductor Devices                                3
+ENSC 14a. Engineering Thermodynamics and Heat Transfer         5 ENSC 26. Computer Applications in Engineering               3
+ENSC 21. Mathematical Methods in Engineering                   3 KAS 1/HIST 1. Kasaysayan ng Pilipinas/Philippine History    3
+STS 1. Science, Technology, and Society                        3 GE Elective                                                 3
+HK 12/13. Human Kinetics Activities/Advanced Human                HK 12/13. Human Kinetics Activities/Advanced Human
+                                                              (2)                                                            (2)
+Kinetics Activities                                               Kinetics Activities
+                                                              21                                                             19
+                                                                      THIRD YEAR
+                          FIRST SEMESTER                                                SECOND SEMESTER                             MIDYEAR
+EE 60. Signals and Systems                                     3 EE 70. Instrumentation Engineering                          4 EE 198. Internship 3
+EE 65. Electronic Circuits                                     4 EE 75. Digital Electronics                                  4
+EE 61. Electromechanical Energy Conversion for AC              4 EE 71. Analysis of Power Systems                            3
+EE 62. Principles of Power Systems                             3 EE 79. Electrical Engineering Law, Ethics, and Contracts    1
+EE 66. Signals and Noise in Electrical Engineering Networks    3 FPPS 183. Engineering Economic Analysis                     3
+ENG 10. Writing of Scientific Papers                           3 IE 184. Project Development and Management                  3
+                                                                  EE 199. Undergraduate Seminar                              1
+                                                              20                                                             19                   3
+                                                                     FOURTH YEAR
+                         FIRST SEMESTER                                                 SECOND SEMESTER                               MIDYEAR
+                                                                  EE 200/200b/200c. Undergraduate Thesis/
+EE 85. Industrial Electronics                                  3                                                             3
+                                                                  Innovationeering/Engineering Industry Research
+EE 80. Control Systems Analysis                                3 Specialization Course                                       3
+EE 86. Electronic Communication Systems I                      3 Specialization Course                                       3
+EE 81. Maintenance of Electrical Equipment and Devices         3 Elective                                                    3
+COMM 10. Critical Perspectives in Communication                3 Elective                                                    3
+EE 200/200b/200c. Undergraduate
+                                                               3 EE 91. Electrical System Design, Planning, and Estimation   4
+Thesis/Innovationeering/Engineering Industry Research
+Specialization Course                                         3
+                                                              21                                                             19
+
+TOTAL UNITS                                                   156
+

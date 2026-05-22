@@ -1,0 +1,125 @@
+{
+  "program": "BS-Food-Science-and-Technology",
+  "nodes": [
+    {
+      "id": "FST 11",
+      "label": "3 GE",
+      "units": 1,
+      "year": 1,
+      "sem": "1"
+    },
+    {
+      "id": "AGRI 31",
+      "label": "(Lab)                                  3 MATH",
+      "units": 27,
+      "year": 1,
+      "sem": "1"
+    },
+    {
+      "id": "ETHICS 1",
+      "label": "3 GE",
+      "units": 2,
+      "year": 1,
+      "sem": "1"
+    },
+    {
+      "id": "CHEM 18",
+      "label": "3 PHYS",
+      "units": 51,
+      "year": 1,
+      "sem": "1"
+    },
+    {
+      "id": "HK 12",
+      "label": "or",
+      "units": 13,
+      "year": 1,
+      "sem": "1"
+    },
+    {
+      "id": "CHEM 40.1",
+      "label": "(Lab)                                2 MGT",
+      "units": 101,
+      "year": 2,
+      "sem": "1"
+    },
+    {
+      "id": "ABME 10",
+      "label": "3 CHEM",
+      "units": 160,
+      "year": 2,
+      "sem": "1"
+    },
+    {
+      "id": "NSTP 1",
+      "label": "-3 NSTP",
+      "units": 2,
+      "year": 2,
+      "sem": "1"
+    },
+    {
+      "id": "COMM 10",
+      "label": "3 PI",
+      "units": 10,
+      "year": 3,
+      "sem": "1"
+    },
+    {
+      "id": "FST 102",
+      "label": "(Lab)                                  4 AGRI",
+      "units": 171,
+      "year": 3,
+      "sem": "1"
+    },
+    {
+      "id": "FST 140",
+      "label": "(Lab)                                  3 FST",
+      "units": 111,
+      "year": 3,
+      "sem": "1"
+    },
+    {
+      "id": "FST 167",
+      "label": "(Lab)                                  3 FST",
+      "units": 200,
+      "year": 3,
+      "sem": "1"
+    },
+    {
+      "id": "GE 3",
+      "label": "3 Elective",
+      "units": 1,
+      "year": 4,
+      "sem": "1"
+    },
+    {
+      "id": "FST 165",
+      "label": "3 Elective",
+      "units": 2,
+      "year": 4,
+      "sem": "1"
+    },
+    {
+      "id": "FST 170",
+      "label": "3 FST",
+      "units": 147,
+      "year": 4,
+      "sem": "1"
+    },
+    {
+      "id": "ABME 172",
+      "label": "3 FST",
+      "units": 175,
+      "year": 4,
+      "sem": "1"
+    },
+    {
+      "id": "FST 200",
+      "label": "3 FST",
+      "units": 199,
+      "year": 4,
+      "sem": "1"
+    }
+  ],
+  "edges": []
+}
