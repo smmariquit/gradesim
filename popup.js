@@ -1,3 +1,5 @@
+// popup.js
+
 /**
  * Elbi GradeSim - Popup Script
  * Processes grades data locally. No data is collected, transmitted, or shared.

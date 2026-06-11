@@ -1,3 +1,5 @@
+// curriculum.js
+
 // UPLB Curriculum Database
 // Complete undergraduate programs for University of the Philippines Los Baños
 // NOTE: This is UPLB only - not UP Diliman, UP Manila, etc.
